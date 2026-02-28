@@ -1,0 +1,67 @@
+{
+  "contact_information": {
+    "name": "Naiak",
+    "email": "naik.ai@example.com",
+    "phone": "555-123-4567",
+    "location": "New York, NY"
+  },
+  "professional_summary": "Highly skilled AI/ML Engineer with expertise in developing and deploying scalable machine learning solutions using Python, TensorFlow, and Scikit-learn. Proven ability to design and execute end-to-end ML pipelines, optimize models for production, and leverage cloud technologies like AWS and Django for data-driven applications. Passionate about healthcare AI and leveraging machine learning to enhance automation, accuracy, and operational efficiency.",
+  "work_experience": [
+    {
+      "company": "Ananthalakshmi Institute of Technology and Sciences at Anantapur",
+      "role": "Degree",
+      "duration": "2019 - Present",
+      "responsibilities": [
+        "Designed and deployed end-to-end healthcare AI pipelines on AWS using Python, TensorFlow/Keras, and Computer Vision, leveraging Amazon S3 and EC2 to process and analyze high-resolution Whole Slide Images (WSIs) at scale.",
+        "Integrated Model Context Protocol (MCP) using AWS API Gateway, Lambda, and ECS to securely connect LLMs, clinical data sources, inference services, and analytics tools for controlled system orchestration.",
+        "Developed and optimized CNN-based detection and segmentation models (YOLO, U-Net, Mask R-CNN) using EC2-based training and inference environments for automated nuclei detection and pathology analysis.",
+        "Built and deployed classification models, integrating outputs with Amazon S3, and Amazon Redshift to enable large-scale analytics, reporting, and audit-ready data warehousing.",
+        "Implemented data augmentation, normalization, and class imbalance handling techniques to improve model robustness, generalization, and clinical reliability."
+      ],
+      "is_project": false
+    },
+    {
+      "company": "Sr. Python Developer",
+      "role": "Project",
+      "duration": "2019 - 2023",
+      "responsibilities": [
+        "Developed and integrated RESTful APIs using Fast API (Python) to support scalable web applications, data processing, and model-driven services.",
+        "Deployed and managed cloud-native applications on AWS (Lambda, EC2, S3), enabling reliable backend services and support for machine learning inference where required.",
+        "Designed and deployed backend and web services on cloud platforms using Docker for containerized, repeatable, and efficient deployments.",
+        "Diagnosed and resolved file system, data flow, and application issues by analyzing logs and implementing corrective actions to maintain system stability.",
+        "Collaborated closely with frontend engineers, data/ML teams, designers, and QA to ensure smooth integration and adherence to engineering best practices."
+      ],
+      "is_project": true
+    }
+  ],
+  "education": [
+    {
+      "degree": "B. TECH in Electrical and Electronics Engineering",
+      "institution": "Ananthalakshmi Institute of Technology and Sciences at Anantapur",
+      "year": "2019"
+    }
+  ],
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "Scikit-learn",
+    "Deep Learning",
+    "Natural Language Processing (NLP)",
+    "Large Language Models (LLMs)",
+    "Computer Vision",
+    "AWS",
+    "Django",
+    "Fast API",
+    "RESTful APIs",
+    "AWS Lambda",
+    "EC2",
+    "S3",
+    "Redshift",
+    "Docker",
+    "Celery",
+    "Redis"
+  ],
+  "certifications": [
+    "Certified by Simplilearn"
+  ]
+}

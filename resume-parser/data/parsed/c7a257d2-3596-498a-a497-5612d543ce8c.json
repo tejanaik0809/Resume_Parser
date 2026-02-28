@@ -1,0 +1,99 @@
+{
+  "contact_information": {
+    "name": "Tewana Naik",
+    "email": "tejanaik0809@gmail.com",
+    "phone": "7337551063",
+    "location": "HYD"
+  },
+  "professional_summary": "Highly skilled AI/ML Engineer with extensive experience in designing, training, and deploying scalable machine learning models, particularly within healthcare. Proven expertise in deep learning, NLP, LLMs, and computer vision. Adept at developing end-to-end ML pipelines, optimizing models, and ensuring production-ready deployments using Python, Django, AWS, and Docker.",
+  "work_experience": [
+    {
+      "company": "Microline Information Systems Pvt Ltd",
+      "role": "AI/ML Engineer",
+      "duration": "September 2024 – Current",
+      "responsibilities": [
+        "Designed and deployed end-to-end healthcare AI pipelines using Machine Learning, Deep Learning, Python, TensorFlow/Keras, and Computer Vision to enable scalable analysis of high-resolution Whole Slide Images (WSIs).",
+        "Developed and optimized deep learning CNN models for nuclei detection and counting using YOLO, U-Net, and Mask R-CNN, significantly reducing manual pathology workload and improving quantitative diagnostic accuracy.",
+        "Built Machine Learning and Deep Learning–based CNN classification models to distinguish cancerous and non-cancerous tissue regions, delivering consistent performance across heterogeneous histopathology datasets.",
+        "Implemented data augmentation, normalization, and class imbalance handling techniques to improve model robustness, generalization, and clinical reliability in medical image analysis.",
+        "Engineered WSI preprocessing and data pipelines using Python, OpenCV, and NumPy, converting raw .svs and .tif slides into training-ready datasets for machine learning and deep learning models."
+      ],
+      "is_project": false
+    },
+    {
+      "company": "Cherish HR Services Pvt Ltd",
+      "role": "Sr. Python Developer",
+      "duration": "May 2024 – August 2024",
+      "responsibilities": [
+        "Developed and integrated RESTful APIs using Fast API (Python) to support scalable web applications, data processing, and model-driven services.",
+        "Deployed and managed cloud-native applications on AWS (Lambda, EC2, S3), enabling reliable backend services and support for machine learning inference.",
+        "Designed and deployed backend and web services on cloud platforms using Docker for containerized, repeatable, and efficient deployments.",
+        "Diagnosed and resolved file system, data flow, and application issues by analyzing logs and implementing corrective actions to maintain system stability.",
+        "Collaborated closely with frontend engineers, data/ML teams, designers, and QA to ensure smooth integration and adherence to engineering best practices.",
+        "Participated in code reviews, sprint planning, and Agile ceremonies, contributing to clean code, maintainability, and high delivery standards.",
+        "Monitored and maintained production applications, addressing bugs, applying updates, and improving performance and reliability.",
+        "Partnered with technical leads and architects to align on technical direction and deliver scalable, robust backend solutions."
+      ],
+      "is_project": true
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ananthalakshmi Institute of Technology and Sciences at Anantapur B. TECH",
+      "institution": "Anantapur B. TECH",
+      "year": "January 2019"
+    },
+    {
+      "degree": "Deep Learning – Certified by Simplilearn",
+      "institution": "Simplilearn",
+      "year": "Various Dates"
+    },
+    {
+      "degree": "Natural Language Processing – Certified by Simplilearn",
+      "institution": "Simplilearn",
+      "year": "Various Dates"
+    },
+    {
+      "degree": "IBM Artificial Intelligence Engineer Master Program",
+      "institution": "IBM",
+      "year": "Certified by Simplilearn"
+    },
+    {
+      "degree": "Microsoft Copilot Studio",
+      "institution": "Microsoft",
+      "year": null
+    }
+  ],
+  "skills": [
+    "Python",
+    "Django",
+    "Fast API",
+    "AWS EC2",
+    "Lambda",
+    "S3",
+    "Version control",
+    "Docker",
+    "Object-oriented programming",
+    "MYSQL",
+    "MongoDB",
+    "RESTful API Development",
+    "Deep Learning",
+    "LLM",
+    "Lang Chain",
+    "Vision-Language Model (VLM)",
+    "Machine learning",
+    "Natural Language Processing",
+    "RAG (Retrieval-Augmented Generation)",
+    "Python Software Developer",
+    "Data Science"
+  ],
+  "certifications": [
+    "Python for Machine learning and Data Science – Certified by Simplilearn",
+    "Machine Learning – Certified by Simplilearn",
+    "Machine Learning – Certified by Coursera (Andrew Ng)",
+    "Deep Learning - Certified by Simplilearn",
+    "Natural Language Processing - Certified by Simplilearn",
+    "IBM Artificial Intelligence Engineer Master Program – Certified by Simplilearn",
+    "Microsoft Copilot Studio"
+  ]
+}
